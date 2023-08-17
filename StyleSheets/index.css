@@ -194,7 +194,7 @@ main{
 .menu
 {
     background-color:#e3f9d4;
-    background-image: url("/Assets/Images/MenuImage.png");
+    background-image: url("/../Assets/Images/MenuImage.png");
     background-repeat: no-repeat;
     height:270px;
     padding-left: 990px;
