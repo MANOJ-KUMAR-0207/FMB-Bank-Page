@@ -54,13 +54,13 @@ body
     text-align: center;
     display: flex;
     flex-wrap: wrap;
-    padding-bottom: 50px;
 
 }
 .buttons
 {
     padding-top:20px;
-    padding-right:70px;
+    padding-right:65px;
+    padding-bottom:30px;
     text-align: right;
 }
 .content
@@ -223,6 +223,10 @@ main{
     font-size: 20px;;
     margin-top:5px;
 }
+.navigations
+{
+    background-color:#fff ;
+}
 .navContainer
 {
     padding: 31px 0px 29px 0px;
@@ -247,7 +251,7 @@ main{
   text-align: right;
   color: #4a4a4a;
   margin-right:65px;
-  margin-top:20px;
+  margin-left: 69px;
 }
 .next a{
     margin-left: 12.5px;
